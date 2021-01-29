@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Pizz-Website/static/css/main.1512f5d3.chunk.css",
-    "main.js": "/Pizz-Website/static/js/main.33823e6b.chunk.js",
-    "main.js.map": "/Pizz-Website/static/js/main.33823e6b.chunk.js.map",
+    "main.js": "/Pizz-Website/static/js/main.a5ea907a.chunk.js",
+    "main.js.map": "/Pizz-Website/static/js/main.a5ea907a.chunk.js.map",
     "runtime-main.js": "/Pizz-Website/static/js/runtime-main.12744c38.js",
     "runtime-main.js.map": "/Pizz-Website/static/js/runtime-main.12744c38.js.map",
-    "static/js/2.4b45c39d.chunk.js": "/Pizz-Website/static/js/2.4b45c39d.chunk.js",
-    "static/js/2.4b45c39d.chunk.js.map": "/Pizz-Website/static/js/2.4b45c39d.chunk.js.map",
+    "static/js/2.0bd1dfcc.chunk.js": "/Pizz-Website/static/js/2.0bd1dfcc.chunk.js",
+    "static/js/2.0bd1dfcc.chunk.js.map": "/Pizz-Website/static/js/2.0bd1dfcc.chunk.js.map",
     "index.html": "/Pizz-Website/index.html",
     "static/css/main.1512f5d3.chunk.css.map": "/Pizz-Website/static/css/main.1512f5d3.chunk.css.map",
-    "static/js/2.4b45c39d.chunk.js.LICENSE.txt": "/Pizz-Website/static/js/2.4b45c39d.chunk.js.LICENSE.txt",
+    "static/js/2.0bd1dfcc.chunk.js.LICENSE.txt": "/Pizz-Website/static/js/2.0bd1dfcc.chunk.js.LICENSE.txt",
     "static/media/Menu.css": "/Pizz-Website/static/media/Background.3f6bab64.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.12744c38.js",
-    "static/js/2.4b45c39d.chunk.js",
+    "static/js/2.0bd1dfcc.chunk.js",
     "static/css/main.1512f5d3.chunk.css",
-    "static/js/main.33823e6b.chunk.js"
+    "static/js/main.a5ea907a.chunk.js"
   ]
 }
